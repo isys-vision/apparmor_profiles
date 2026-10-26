@@ -1,4 +1,4 @@
 # Include python abstractions and excutables needed for ros with python
 #include <abstractions/python>
 
-/usr/bin/python{2,2.[4-7],3,3.[0-5]} rix,
+/usr/bin/python{2,2.[4-7],3,3.[0-9],3.1[0-9]} rix,
